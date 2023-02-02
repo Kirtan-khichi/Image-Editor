@@ -1,0 +1,13 @@
+Institute=str(input('Enter Your Institute Name :-'))
+Name=str(input('Enter Your Name :-'))
+Branch=input('Enter Your Branch Name :-')
+DateOfBirth=input('Enter Your Date Of Birth :-')
+Age=input('Enter Your Age :-')
+Adress=input('Enter Your Adress :-')
+print(Institute)
+PRINT(Name)
+print(Branch)
+print(DateOfBirth)
+print(Age)
+print(Adress)
+                                                                                         
